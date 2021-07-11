@@ -4,9 +4,7 @@ let firstName = input[0];
 let secondName = input[1];
 //let thirdName = input[2];
 //let fourthName = input[3];
-//console.log("First name: ", firstName);
-//console.log("Last name: ", secondName);
-//console.log("Third name: ", thirdName);
-//console.log("Fourth name: ", fourthName);
+
 const greeting = " greets ";
 console.log(firstName, greeting , secondName);
+console.log(thirdName,greeting , fourthName);
